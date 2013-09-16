@@ -1,0 +1,24 @@
+{
+	"BundleType": "Application",
+	"BundleIdentifier": "coverbrowser",
+	"AppIcon": {
+		"36x18": "tutorial.png"
+	},
+	"AppName": {
+		"en": "Cover Browser"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"RequiredPermissions": [
+	],
+	"BundleVersion": "0.1",
+	"VendorIdentifier": "se.gyran",
+	"Dependencies": {
+	  "api": "1.0.0",
+    "views": "1.0.0"
+  },
+  "AcceptedLinkTypes": [
+  	"playlist"
+  ]
+}
